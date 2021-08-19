@@ -1064,7 +1064,7 @@
           // ************************************* Part 2 Logic of lock ********************************** 
           if (this.currentSlide_) {
             /// if current slide == x and all links haven't been click
-            if (this.currentSlide_.el.attributes.id.nodeValue == "section-12" && lock.includes(false)) {
+            if (this.currentSlide_.el.attributes.id.nodeValue == "section-7" && lock.includes(false)) {
               //force to start on top of slide x so everyone can see warning message
               this.goToSlide(this.currentSlideI_ - 1, 0);
               this.goToSlide(this.currentSlideI_ + 1, 0);
