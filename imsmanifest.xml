@@ -36,26 +36,17 @@
 	  <file href="sco/static/css/base.css"/>
 	  <file href="sco/static/css/colors.css"/>
 	  <file href="sco/static/css/svg-icons.css"/>
-	  <file href="sco/static/images/colab-files-after.png"/>
-	  <file href="sco/static/images/colab-files-before.png"/>    
-	  <file href="sco/static/images/intro_bg.jpg"/>
+	  <file href="sco/static/images/BackBrief.png"/>
+	  <file href="sco/static/images/BattleDrill.png"/>    
+	  <file href="sco/static/images/CombinedArms.png"/>
 	  <file href="sco/static/images/M400_Landing.jpg"/>
-	  <file href="sco/static/images/scc1-demo1-after.png"/>
-	  <file href="sco/static/images/scc1-demo1-before.png"/>
-	  <file href="sco/static/images/scc1-demo1-log.png"/>
-	  <file href="sco/static/images/scc1-demo2-after.png"/>
-	  <file href="sco/static/images/scc1-demo2-before.png"/>
-	  <file href="sco/static/images/scc1-log.png"/>
-	  <file href="sco/static/images/scc1-run.png"/>
-	  <file href="sco/static/images/ws-colors.jpg"/>
-	  <file href="sco/static/images/ws-folders.png"/>
-	  <file href="sco/static/images/ws-fpo-img.jpg"/>                
-	  <file href="sco/static/images/swipe.svg"/>
+	  <file href="sco/static/images/Support.png"/>
+	  <file href="sco/static/images/intro_bg.jpg"/>
 	  <file href="sco/static/js/logic.js"/>
 	  <file href="sco/static/js/svg-icons.js"/>
 	  <file href="sco/static/js/webslides.js"/>
 	  <file href="sco/static/js/webslides.min.js"/>
-	  <file href="sco/static/video/ways_boss_kills_motivation.mp4"/>
+	  <file href="sco/static/video/Rehearsal.mp4"/>
     </resource>
   </resources>
 </manifest>
